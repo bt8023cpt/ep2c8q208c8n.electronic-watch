@@ -1,0 +1,10 @@
+/db/*
+/incremental_db/*
+/output_files/*
+/simulation/*
+/src/*.bak
+/*.*
+!/.gitignore
+!/readme.txt
+!/*.qpf
+!/*.qsf
